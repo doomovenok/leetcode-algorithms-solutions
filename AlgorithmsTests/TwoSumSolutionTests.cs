@@ -1,7 +1,7 @@
 using Algorithms.Two_Sum___1;
 using FluentAssertions;
 
-namespace AlgoritmsTests;
+namespace AlgorithmsTests;
 
 public class TwoSumSolutionTests
 {

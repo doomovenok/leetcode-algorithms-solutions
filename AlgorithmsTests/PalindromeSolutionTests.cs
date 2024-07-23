@@ -1,7 +1,7 @@
 using Algorithms.Palindrome_Number___9;
 using FluentAssertions;
 
-namespace AlgoritmsTests;
+namespace AlgorithmsTests;
 
 public class PalindromeSolutionTests
 {
