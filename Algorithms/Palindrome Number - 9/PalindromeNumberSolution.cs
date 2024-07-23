@@ -1,5 +1,9 @@
 namespace Algorithms.Palindrome_Number___9;
 
+/*
+    Given an integer x, return true if x is a palindrome, and false otherwise.
+ */
+
 public class PalindromeNumberSolution
 {
     public bool IsPalindrome(int x)
